@@ -22,17 +22,4 @@ axios：用来请求后端api数据
 6.运用了moudel的思想对Vuex的数据，文件进行分块管理。
 7.使用Node.js实现了用户的登陆与注册功能。
 ```
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
