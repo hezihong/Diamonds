@@ -1,4 +1,4 @@
-# vuexcode3
+# Diamonds
 
 ## Project setup
 ```
