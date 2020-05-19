@@ -1,0 +1,48 @@
+// -----------颈部标签栏 ----------
+
+.main-nav{
+    // height: 33px;
+    // overflow: hidden;
+    
+     .van-tab{
+        height: 33px;
+        line-height: 33px;
+        // background-color: red;
+        background-color: #f2f2f2;
+        // width: 70px;
+        padding: 0px;
+        flex-basis: 17% !important;
+     
+        .list-title{
+            height: 33px;
+            line-height: 33px;
+            // width: 70px;
+            div{
+                height: 33px;
+                line-height: 33px;
+            }
+        }
+    }
+
+}
+.van-tabs--line .van-tabs__wrap{
+    height: 33px;
+    // background-color: blue;
+}
+.van-tab--active .list-title{
+    color: orangered;
+}
+
+.loginform .van-field__control {           
+    color: white ;
+}
+.orderlist .van-tabs__wrap{
+    height: 44px;
+}
+.orderlist .van-tabs__nav--line{
+    height:44px;
+}
+.orderlist .van-tab{
+    height:44px;
+}
+// -----------颈部标签栏 -end---------

@@ -1,0 +1,58 @@
+{
+  "id": "1648744",
+  "name": "qianqian",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "554119",
+      "name": "收藏",
+      "font_class": "iconset0165",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1111304",
+      "name": "收藏",
+      "font_class": "shoucangfill",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7587956",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "730813",
+      "name": "下",
+      "font_class": "icon-arrow-btm4",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "1206324",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1555778",
+      "name": "play",
+      "font_class": "play1",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "2966200",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
